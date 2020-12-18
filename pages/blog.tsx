@@ -21,15 +21,10 @@ export default function Blog() {
       <div className="text-center pt-40 pb-56 bg-violet">
         <Container>
           <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-white sm:text-5xl sm:leading-none md:text-6xl">
-            Welcome to Acme, the simplest way to start publishing with Next.js
+            Welcome to JPC eWear, home of the most advanced technology that you wear and customized for your comfort and needs.
           </h2>
           <p className="mt-3 max-w-md mx-auto text-gray-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-            The Yeezy BOOST 350 V2 lineup continues to grow. We recently had the
-            ‘Carbon’ iteration, and now release details have been locked in for
-            this ‘Natural’ joint. Revealed by Yeezy Mafia earlier this year, the
-            shoe was originally called ‘Abez’, which translated to ‘Tin’ in
-            Hebrew. It’s now undergone a name change, and will be referred to as
-            ‘Natura`
+            CHeck out the new line of JPC products, full of new threads and wearable technology including fashion technology, smartwear, tech togs, skin electronics and fashion electronics. JPC products all include safe housing for electronic devices with micro-controllers and are worn close to the surface of the skin. This way out products, unlike any other, can detect, analyze, and transmit information concerning an array of vital information to keep you healthy and motivated, such as vital signsand ambient. Expect the best with JPC, keeping you comfortable while providing you the safety and drive towards success that you deserve.
           </p>
           <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-12">
             <div className="flex">
