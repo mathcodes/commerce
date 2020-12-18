@@ -109,14 +109,9 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline="Release Details: The Yeezy BOOST 350 V2 ‘Natural'"
+        headline="JPC eWear: the most advanced technology that you wear... customized for your comfort and needs."
         description="
-        The Yeezy BOOST 350 V2 lineup continues to grow. We recently had the
-        ‘Carbon’ iteration, and now release details have been locked in for
-        this ‘Natural’ joint. Revealed by Yeezy Mafia earlier this year, the
-        shoe was originally called ‘Abez’, which translated to ‘Tin’ in
-        Hebrew. It’s now undergone a name change, and will be referred to as
-        ‘Natural’."
+        Check out the new line of JPC products, full of new threads and wearable technology including fashion technology, smartwear, tech togs, skin electronics and fashion electronics. JPC products all include safe housing for electronic devices with micro-controllers and are worn close to the surface of the skin. This way out products, unlike any other, can detect, analyze, and transmit information concerning an array of vital information to keep you healthy and motivated, such as vital signsand ambient. Expect the best with JPC, keeping you comfortable while providing you the safety and drive towards success that you deserve.
       />
       <Grid layout="B">
         {featured.slice(3, 6).map(({ node }, i) => (
